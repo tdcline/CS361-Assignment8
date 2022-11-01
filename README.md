@@ -39,3 +39,10 @@ Example code:
 pmData = newSocket.recv(1024).decode()
 
 newSocket.close()
+
+
+UML Diagram
+------------------------------------------------------------------------------
+
+<img width="618" alt="Screen Shot 2022-10-31 at 7 57 01 PM" src="https://user-images.githubusercontent.com/7214790/199149151-73278d87-57ac-42c2-8757-7212b708b6ab.png">
+
